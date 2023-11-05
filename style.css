@@ -4,12 +4,22 @@
     box-sizing: border-box;
 }
 
-.intro {}
+.intro {
+    position: relative;
+}
 
-.aboutus {}
+.aboutus {
+    position: relative;
+}
 
-.officials {}
+.officials {
+    position: relative;
+}
 
-.news {}
+.news {
+    position: relative;
+}
 
-.announcement {}
+.announcement {
+    position: relative;
+}
